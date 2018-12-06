@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="Sprites.svg"
+   inkscape:export-filename="C:\Users\Owner\Desktop\Cranio Active\Assets\Sprites\UISprites.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-516.11413"
+     inkscape:cy="136.76427"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="false"
+     inkscape:snap-page="true"
+     inkscape:snap-global="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="0,67.351923"
+       orientation="1,0"
+       id="guide4489"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="33.943229,41.694047"
+       orientation="1,0"
+       id="guide4491"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-44.366741,33.943231"
+       orientation="0,1"
+       id="guide4493"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="67.619189,12.027129"
+       orientation="1,0"
+       id="guide4495"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="6.681738,-0.4009043"
+       orientation="0,1"
+       id="guide4501"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="50.799998,0"
+       orientation="1,0"
+       id="guide4503"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="13.229166,67.846728"
+       orientation="0,1"
+       id="guide4505"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-231.6994,-1.3229167"
+       orientation="1,0"
+       id="guide4567"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       y="229.26662"
+       x="-264.58334"
+       height="67.73333"
+       width="67.73333"
+       id="rect4544"
+       style="fill:#b3b3b3;fill-opacity:0;stroke:none;stroke-width:1.38516772;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Owner\Desktop\Cranio Active\Assets\Sprites\UISprites.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#333333;fill-opacity:0;stroke:none;stroke-width:0.67097235;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4497"
+       width="135.46666"
+       height="135.46666"
+       x="0"
+       y="161.53333"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.29225865;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4487"
+       cx="16.933332"
+       cy="280.06668"
+       r="16.933332"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.47115484;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4499"
+       width="17.197916"
+       height="33.866665"
+       x="42.100498"
+       y="263.13333"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       cy="246.31339"
+       cx="16.819941"
+       id="circle4507"
+       style="fill:#ff5555;fill-opacity:1;stroke:none;stroke-width:0.13699625;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       r="7.9375"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ff5555;fill-opacity:1;stroke:none;stroke-width:0.27431864;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 50.80007,230.30633 A 15.893898,15.893898 0 0 0 34.90595,246.19992 15.893898,15.893898 0 0 0 50.80007,262.09405 15.893898,15.893898 0 0 0 66.694191,246.19992 15.893898,15.893898 0 0 0 50.80007,230.30633 Z m 0,1.32291 A 14.570981,14.570981 0 0 1 65.371275,246.19992 14.570981,14.570981 0 0 1 50.80007,260.77114 14.570981,14.570981 0 0 1 36.228867,246.19992 14.570981,14.570981 0 0 1 50.80007,231.62924 Z"
+       id="circle4509"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ff5555;fill-opacity:1;stroke:none;stroke-width:0.31190518;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4529"
+       sodipodi:sides="3"
+       sodipodi:cx="16.877121"
+       sodipodi:cy="267.75345"
+       sodipodi:r1="3.789391"
+       sodipodi:r2="1.8946954"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.52359878"
+       inkscape:flatsided="true"
+       inkscape:rounded="0.18"
+       inkscape:randomized="0"
+       d="m 16.877121,263.96406 c 1.181415,0 3.872416,4.66095 3.281709,5.68408 -0.590708,1.02314 -5.97271,1.02314 -6.563418,0 -0.590708,-1.02313 2.100294,-5.68408 3.281709,-5.68408 z"
+       inkscape:transform-center-y="-0.97129808"
+       transform="matrix(0.98274963,0,0,1.0252882,101.83305,-40.704994)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ff5555;fill-opacity:1;stroke:none;stroke-width:0.51778114;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 319.57031 900.94727 A 30 30 0 0 0 289.57031 930.94727 A 30 30 0 0 0 319.57031 960.94727 A 30 30 0 0 0 349.57031 930.94727 A 30 30 0 0 0 319.57031 900.94727 z M 319.57031 904.51953 A 26.428571 26.428571 0 0 1 346 930.94727 A 26.428571 26.428571 0 0 1 319.57031 957.37695 A 26.428571 26.428571 0 0 1 293.14258 930.94727 A 26.428571 26.428571 0 0 1 319.57031 904.51953 z "
+       transform="scale(0.26458333)"
+       id="circle4533"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.14449427;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4542"
+       width="2.9482131"
+       height="16.933332"
+       x="-260.23657"
+       y="280.06668"
+       ry="1.4174166"
+       rx="1.4741066"
+       inkscape:export-filename="C:\Users\Owner\Desktop\Cranio Active\Assets\Sprites\UISprites.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       rx="1.4741066"
+       ry="1.4174166"
+       y="280.06668"
+       x="-254.94496"
+       height="16.933332"
+       width="2.9482131"
+       id="rect4552"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.14449427;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Owner\Desktop\Cranio Active\Assets\Sprites\UISprites.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       transform="matrix(0,-1.1004018,1,0,-553.24793,20.261265)"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.57200003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:transform-center-x="-1.3215574"
+       inkscape:transform-center-y="2.7632774e-006"
+       d="m -236.10049,308.24378 c 0.12678,1.90948 -6.97974,13.32667 -7.69416,13.32667 -0.71442,0 -7.58416,-11.41125 -7.69416,-13.32667 -0.11,-1.91542 15.26154,-1.90948 15.38832,0 z"
+       id="path4556"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzzz"
+       inkscape:export-filename="C:\Users\Owner\Desktop\Cranio Active\Assets\Sprites\UISprites.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       rx="1.4741066"
+       ry="1.4174166"
+       y="263.13333"
+       x="-262.35327"
+       height="16.933332"
+       width="2.9482131"
+       id="rect4559"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.14449427;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Owner\Desktop\Cranio Active\Assets\Sprites\UISprites.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="zzzz"
+       inkscape:connector-curvature="0"
+       id="path4561"
+       d="m -257.93574,263.13321 c 1.34964,-0.1395 9.41945,7.68052 9.41945,8.46667 0,0.78615 -8.06561,8.34563 -9.41945,8.46667 -1.35384,0.12104 -1.34964,-16.79383 0,-16.93334 z"
+       inkscape:transform-center-y="2.7632774e-006"
+       inkscape:transform-center-x="-0.93409378"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.5044564;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Owner\Desktop\Cranio Active\Assets\Sprites\UISprites.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="zzzz"
+       inkscape:connector-curvature="0"
+       id="path4563"
+       d="m -245.34389,263.13321 c 1.45721,-0.1395 10.17013,7.68052 10.17013,8.46667 0,0.78615 -8.70839,8.34563 -10.17013,8.46667 -1.46173,0.12104 -1.4572,-16.79383 0,-16.93334 z"
+       inkscape:transform-center-y="2.7632774e-006"
+       inkscape:transform-center-x="-1.0085338"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.52417225;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Owner\Desktop\Cranio Active\Assets\Sprites\UISprites.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.52417225;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:transform-center-x="-1.0085338"
+       inkscape:transform-center-y="2.7632774e-006"
+       d="m -241.9394,263.13321 c 1.45721,-0.1395 10.17013,7.68052 10.17013,8.46667 0,0.78615 -8.70839,8.34563 -10.17013,8.46667 -1.46173,0.12104 -1.4572,-16.79383 0,-16.93334 z"
+       id="path4565"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzzz"
+       inkscape:export-filename="C:\Users\Owner\Desktop\Cranio Active\Assets\Sprites\UISprites.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="zzzz"
+       inkscape:connector-curvature="0"
+       id="path4569"
+       d="m -228.64927,280.06667 c 1.13939,-0.13951 7.95202,7.68052 7.95202,8.46667 0,0.78615 -6.80909,8.34562 -7.95202,8.46666 -1.14293,0.12105 -1.13939,-16.79382 0,-16.93333 z"
+       inkscape:transform-center-y="2.7632774e-006"
+       inkscape:transform-center-x="-0.78857364"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.46349972;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Owner\Desktop\Cranio Active\Assets\Sprites\UISprites.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.46349972;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:transform-center-x="-0.78857364"
+       inkscape:transform-center-y="2.7632774e-006"
+       d="m -225.47425,280.06667 c 1.13939,-0.13951 7.95202,7.68052 7.95202,8.46667 0,0.78615 -6.80909,8.34562 -7.95202,8.46666 -1.14293,0.12105 -1.13939,-16.79382 0,-16.93333 z"
+       id="path4575"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzzz"
+       inkscape:export-filename="C:\Users\Owner\Desktop\Cranio Active\Assets\Sprites\UISprites.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="zzzz"
+       inkscape:connector-curvature="0"
+       id="path4577"
+       d="m -221.77006,280.06667 c 1.13939,-0.13951 7.95202,7.68052 7.95202,8.46667 0,0.78615 -6.80909,8.34562 -7.95202,8.46666 -1.14293,0.12105 -1.13939,-16.79382 0,-16.93333 z"
+       inkscape:transform-center-y="2.7632774e-006"
+       inkscape:transform-center-x="-0.78857364"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.46349972;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Owner\Desktop\Cranio Active\Assets\Sprites\UISprites.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
